@@ -34,7 +34,7 @@ Syswin Tracker est un antivirus qui lutte efficacement contre le virus syswin.
 Comme mentionné ci-dessus, seul un administrateur peut activer un compte utilisateur.
 
 1. télécharger et installer le logiciel antivirus
-2. nous contacter au +243 97 16 16 16 77 521 ou nous écrire à cette adresse (nathanbangwa@hotmail.com) pour toute activation.
+2. nous contacter au +243 971 677 521 ou nous écrire à cette adresse (nathanbangwa@hotmail.com) pour toute activation.
 
 **NB : le compte administrateur reconnu a la forme nomadmin@ski.app**
 
