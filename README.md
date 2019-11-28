@@ -16,6 +16,9 @@ Syswin Tracker est un antivirus qui lutte efficacement contre le virus syswin.
 
 ***Syswin Tracker est un antivirus sur mesure pour vous offrir une protection en temps réel contre le virus syswin.***
 
+# dépendances
+1. OpenGl 2.0 ou plus
+
 # Conditions d'utilisations
 
 1.  Ce logiciel est propriétaire et payant 
@@ -40,3 +43,21 @@ Comme mentionné ci-dessus, seul un administrateur peut activer un compte utilis
 
 >*Syswin Tracker, Ce qui vous manque pour être libre*
 
+# A propos de nous
+**Author**
+
+Nathan Bangwa
+
+https://www.linkedin.com/in/nathan-bangwa-16244a175
+
+**Design**
+
+Franck God'z Art
+
+https://www.pikgram.net/user/our_world_tkpl
+
+**Organisations**
+
+Espace Esis
+
+Microsoft Student Partner
